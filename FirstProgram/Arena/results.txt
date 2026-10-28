@@ -1,0 +1,2 @@
+Game 1: victory in 19 turns
+Game 1: defeat
